@@ -1,0 +1,14 @@
+LokiControl Changelog
+
+{{ Server }}
+
+[+]		Funktion zum Erstellen von client.ini Dateien
+[fixed]		"Kopieren" Befehl gibt immer eine Kopie zuviel aus
+[better]	Stabilität des Servers verbessert
+
+
+{{ Client }}
+
+[+]		RegExpr.pas
+[+]		Formelle Dateinamenüberprüfung mittels Regular Expression
+[-]		RegExpr.pas wieder entfernt (unzureichende Implementierung)

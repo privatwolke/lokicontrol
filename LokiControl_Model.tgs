@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProjectSupport>
+  <SupportedProjects>
+    <ProjectName>Server</ProjectName>
+    <ProjectName>Client</ProjectName>
+  </SupportedProjects>
+</ProjectSupport>
